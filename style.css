@@ -1,0 +1,34 @@
+body{
+    background-color: #373a40;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    height: 200px;
+    border-radius: 50%;
+    border: 15px solid #bbbfca;
+    cursor: zoom-in;
+}
+
+img:hover{
+    border: 10px solid #00adb5;
+    height: 210px;
+    transition: 1s;
+}
+
+hr{
+    width: 95%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #bbbfca;
+    border-width: 5px;
+}
+
+h1{
+    color: #19d3da;
+}
+
+h3{
+    color: #19d3da;
+}
